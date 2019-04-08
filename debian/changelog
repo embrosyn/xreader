@@ -119,6 +119,12 @@ xreader (2.2.0) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat, 29 Jun 2019 17:21:40 +0200
 
+xreader (2.0.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 08 Apr 2019 20:08:48 +0200
+
 xreader (2.0.2) tessa; urgency=medium
 
   * l10n: Update translations
