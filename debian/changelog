@@ -1,3 +1,9 @@
+xreader (2.2.3-1~ubuntuReleaseName1) ubuntuReleaseName; urgency=medium
+
+  * Add 'yelp' to Recommends for 'xreader-common'
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 14 Dec 2019 08:35:01 +0100
+
 xreader (2.2.3-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
 
   * New upstream release

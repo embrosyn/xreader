@@ -75,6 +75,7 @@ Description: Document viewer (debugging symbols)
 Package: xreader-common
 Architecture: all
 Depends: ${misc:Depends},
+Recommends: yelp
 Description: Document viewer (common files)
  Xreader is a simple multi-page document viewer.  It can display
  and print PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI and
